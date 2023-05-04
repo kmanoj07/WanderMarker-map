@@ -42,7 +42,21 @@
 
 <h4>Application ScreenShorts</h4>
 </h5>Home page</h5>
-    <img src="client/travel/src/images" width="600px" height="600px" />
+    <img src="client/travel/src/images/home.png" width="750px" height="600px" />
+    
+ </h5>Home page</h5>
+    <img src="client/travel/src/images/login.png" width="750px" height="600px" />
+    
+ </h5>Home page</h5>
+    <img src="client/travel/src/images/register.png" width="750px" height="600px" />
+    
+    
+  </h5>Home page</h5>
+    <img src="client/travel/src/images/Login-success.png" width="750px" height="600px" />
+    
+    
+   </h5>Home page</h5>
+    <img src="client/travel/src/images/Login-validation.png" width="750px" height="600px" />
 
 
 <h4>API Endpoints</h4>
