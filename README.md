@@ -14,6 +14,7 @@
         <li> User registration </li>
         <li> 3D Projection of Globe with interactive pins </li>
         <li> Pin creation, rating, and review functionality </li>
+        <li> Double tap to location and creat Pin</li>
         <li>User profile page</li>
         <ul>Social sharing features</ul>
     </ul>
@@ -58,20 +59,29 @@
    
 <h4>Application ScreenShorts</h4>
 
-   </h5>Home</h5>
-    <img src="client/travel/src/images/home.png" width="750px" height="600px" />
+ </h5>Home</h5>
+ <img src="client/travel/src/images/home.png" width="600px" height="400px" />
     
  </h5>Login</h5>
-    <img src="client/travel/src/images/login.png" width="750px" height="600px" />
+ <img src="client/travel/src/images/login.png" width="600px" height="400px" />
     
  </h5>Register</h5>
-    <img src="client/travel/src/images/register.png" width="750px" height="600px" />
+ <img src="client/travel/src/images/register.png" width="600px" height="400px" />
+    
+  </h5>Register Success</h5>
+  <img src="client/travel/src/images/register-success.png" width="600px" height="400px" />
     
   </h5>Login-Scuccess</h5>
-    <img src="client/travel/src/images/Login-success.png" width="750px" height="600px" />
+  <img src="client/travel/src/images/Login-success.png" width="600px" height="400px" />
     
   </h5>Validation Message</h5>
-    <img src="client/travel/src/images/Login-validation.png" width="750px" height="600px" />
+  <img src="client/travel/src/images/Login-validation.png" width="600px" height="400px" />
+    
+  </h5>Review</h5>
+  <img src="client/travel/src/images/view-review-1.png" width="600px" height="400px" />
+  
+  </h5>Logout</h5>
+ <img src="client/travel/src/images/logout.png" width="600px" height="400px" />
     
     
 <h4>Credits</h4>
