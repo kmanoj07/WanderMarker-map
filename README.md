@@ -14,6 +14,7 @@
         <li> User registration </li>
         <li> 3D Projection of Globe with interactive pins </li>
         <li> Pin creation, rating, and review functionality </li>
+        <li> Double tap to location and creat Pin</li>
         <li>User profile page</li>
         <ul>Social sharing features</ul>
     </ul>
@@ -40,23 +41,49 @@
 
 <p>The Travel App uses a RESTful API to communicate between the frontend and backend. Here is the documentation for the available endpoints:</p>
 
-
 <h4>API Endpoints</h4>
-
 <p>The Travel App uses the following endpoints to communicate between the frontend and backend:</p>
-
 <h4>Pins<h4>
 <p>GET "/"</p>
   <strong>Retrieves all pins</strong>
 <p>POST "/" </p>
   <strong>Creates a new pin</strong>
 <h4>Users</h4>
-<p>POST "/registration"<p>
+    <p>POST "/registration"<p>
 <strong>Creates a new user account</strong>
 <p>GET "/login" </p>
-<strong>Logs in an existing user</strong>
+    <strong>Logs in an existing user</strong>
 <h4>API URL</h4>
 <p>Here is the URL for API interaction: "proxy": "http://localhost:7800/api"</p>
+
+   
+<h4>Application ScreenShorts</h4>
+
+ </h5>Home</h5>
+ <img src="client/travel/src/images/home.png" width="600px" height="400px" />
+    
+ </h5>Login</h5>
+ <img src="client/travel/src/images/login.png" width="600px" height="400px" />
+    
+ </h5>Register</h5>
+ <img src="client/travel/src/images/register.png" width="600px" height="400px" />
+    
+  </h5>Register Success</h5>
+  <img src="client/travel/src/images/register-success.png" width="600px" height="400px" />
+    
+  </h5>Login-Scuccess</h5>
+  <img src="client/travel/src/images/Login-success.png" width="600px" height="400px" />
+    
+  </h5>Validation Message</h5>
+  <img src="client/travel/src/images/Login-validation.png" width="600px" height="400px" />
+    
+  </h5>Review</h5>
+  <img src="client/travel/src/images/view-review-1.png" width="600px" height="400px" />
+  
+  </h5>Logout</h5>
+ <img src="client/travel/src/images/logout.png" width="600px" height="400px" />
+    
+    
 <h4>Credits</h4>
 <ul>
   <li>Mapbox for the interactive map</li>
