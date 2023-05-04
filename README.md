@@ -40,13 +40,7 @@
 
 <p>The Travel App uses a RESTful API to communicate between the frontend and backend. Here is the documentation for the available endpoints:</p>
 
-<h4>Application ScreenShorts</h4>
-</h5>Home page</h5>
-    <img src="client/travel/src/images" width="600px" height="600px" />
-
-
 <h4>API Endpoints</h4>
-
 <p>The Travel App uses the following endpoints to communicate between the frontend and backend:</p>
 <h4>Pins<h4>
 <p>GET "/"</p>
@@ -61,6 +55,25 @@
 <h4>API URL</h4>
 <p>Here is the URL for API interaction: "proxy": "http://localhost:7800/api"</p>
 
+   
+<h4>Application ScreenShorts</h4>
+
+   </h5>Home</h5>
+    <img src="client/travel/src/images/home.png" width="750px" height="600px" />
+    
+ </h5>Login</h5>
+    <img src="client/travel/src/images/login.png" width="750px" height="600px" />
+    
+ </h5>Register</h5>
+    <img src="client/travel/src/images/register.png" width="750px" height="600px" />
+    
+  </h5>Login-Scuccess</h5>
+    <img src="client/travel/src/images/Login-success.png" width="750px" height="600px" />
+    
+  </h5>Validation Message</h5>
+    <img src="client/travel/src/images/Login-validation.png" width="750px" height="600px" />
+    
+    
 <h4>Credits</h4>
 <ul>
   <li>Mapbox for the interactive map</li>
