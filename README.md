@@ -40,23 +40,27 @@
 
 <p>The Travel App uses a RESTful API to communicate between the frontend and backend. Here is the documentation for the available endpoints:</p>
 
+<h4>Application ScreenShorts</h4>
+</h5>Home page</h5>
+    <img src="client/travel/src/images" width="600px" height="600px" />
+
 
 <h4>API Endpoints</h4>
 
 <p>The Travel App uses the following endpoints to communicate between the frontend and backend:</p>
-
 <h4>Pins<h4>
 <p>GET "/"</p>
   <strong>Retrieves all pins</strong>
 <p>POST "/" </p>
   <strong>Creates a new pin</strong>
 <h4>Users</h4>
-<p>POST "/registration"<p>
+    <p>POST "/registration"<p>
 <strong>Creates a new user account</strong>
 <p>GET "/login" </p>
-<strong>Logs in an existing user</strong>
+    <strong>Logs in an existing user</strong>
 <h4>API URL</h4>
 <p>Here is the URL for API interaction: "proxy": "http://localhost:7800/api"</p>
+
 <h4>Credits</h4>
 <ul>
   <li>Mapbox for the interactive map</li>
