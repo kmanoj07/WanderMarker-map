@@ -6,7 +6,7 @@
 <h4>Tech Stack</h4>
     <p>Backend: Node.js, Express.js, REST API</p>
     <p>Frontend: React.js, JavaScript, Mapbox GL JS, react-map-gl</p>
-    <p>Backend: NoSQL (MongoDB)</p>
+    <p>Backend: NoSQL (MongoDB), Mongoose (ODM)</p>
 
 <h4>Features</h4>
 
