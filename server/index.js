@@ -20,8 +20,6 @@ mongoose.connect(process.env.MONGO_CONNECTION_STRING)
 application.use("/api/pins", pinRoute)
 application.use("/api/users", userRoute)
 
-
-
 application.listen(7800, ()=>{
     // console.log('listening to port 7000')
     console.log("\x1b[42m%s\x1b]", "{success} Backend server started\n")
