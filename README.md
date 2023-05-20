@@ -1,7 +1,7 @@
 <h1>Travel App</h1>
 <h4>Description</h4>
 
-<p>Travel App is a web application that allows users to pin their favorite travel destinations on a world map, rate them, review them, and share them with other users. Users can browse through the map to find interesting locations, and create a pin to add their own favorite places. </p>
+<p>Travel App is a web application that allows users to pin their favourite travel destinations on a world map, rate them, review them, and share them with other users. Users can browse through the map to find interesting locations, and create a pin to add their own favorite places. </p>
 
 <h4>Tech Stack</h4>
     <p>Backend: Node.js, Express.js, REST API</p>
@@ -9,16 +9,14 @@
     <p>Backend: NoSQL (MongoDB), Mongoose (ODM)</p>
 
 <h4>Features</h4>
-
-    <ul>
+ <ul>
         <li> User registration </li>
         <li> 3D Projection of Globe with interactive pins </li>
         <li> Pin creation, rating, and review functionality </li>
         <li> Double tap to location and creat Pin</li>
-        <li>User profile page</li>
-        <ul>Social sharing features</ul>
-    </ul>
-
+        <li> User profile page </li>
+        <li>Social sharing features</li>
+   </ul>
 <h4>How to Use</h4>
 
 <ul>
@@ -34,7 +32,6 @@
     <li>Browse the world map/ Globe and find interesting locations</li>
     <li>Click on the map to create a pin and rate/review the location</li>
     <li>See your pinned locations</li>
-    <li>Share your favorite travel destinations with friends and family</li>
 </ul>
     
 <h1>API Documentation</h1>
